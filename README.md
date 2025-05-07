@@ -1,8 +1,8 @@
 # Hi there I'm Timotius Giovandi👋
 
 - 🔭 I’m currently a student at the University of Gdansk, studying Business Informatics.
-- 🌱 I’m currently learning more about React, React Native, Django and data visualization with D3.js.
-- 👯 I’m looking to collaborate on innovative web development projects that utilize Python or JavaScript.
+- 🌱 I’m currently learning more about React, React Native, and .Net
+- 👯 I’m looking to collaborate on innovative web development projects that utilize Python or JavaScript combined with AI model.
 - 🤔 I’m looking for help with optimizing data pipelines for better performance and scalability, also code testing with vitest or jest.
 - 💬 Ask me about digital transformation, data analytics, and web application development.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/timgio) | [GitHub](https://github.com/timgio26) | Email: t.gio.andi@gmail.com
@@ -35,6 +35,8 @@ Developed and maintained Python web applications to support internal business pr
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=timgio26&theme=dark&hide_border=true)
 
