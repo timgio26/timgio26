@@ -3,7 +3,7 @@
 - 🔭 I’m currently a student at the University of Gdansk, studying Business Informatics.
 - 🌱 I’m currently learning more about React, React Native, and .Net
 - 👯 I’m looking to collaborate on innovative web development projects that utilize Python or JavaScript combined with AI model.
-- 🤔 I’m looking for help with optimizing data pipelines for better performance and scalability, also code testing with vitest or jest.
+- 🤔 I’m looking for help with devops, also code testing with vitest or jest.
 - 💬 Ask me about digital transformation, data analytics, and web application development.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/timgio) | [GitHub](https://github.com/timgio26) | Email: t.gio.andi@gmail.com
 - 😄 Pronouns: He/Him
