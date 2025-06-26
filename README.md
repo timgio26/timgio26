@@ -39,4 +39,5 @@ Developed and maintained Python web applications to support internal business pr
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=timgio26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![LeetCode Stats](https://leetcard.jacoblin.cool/TimotiusGiovandi?theme=dark&font=Nixie%20One&ext=heatmap)
 
