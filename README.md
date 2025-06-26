@@ -24,6 +24,8 @@ Developed and maintained Python web applications to support internal business pr
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/timotiusgiovandi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/timgio) 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/TimotiusGiovandi?theme=dark&font=Nixie%20One&ext=heatmap)
+
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -39,5 +41,4 @@ Developed and maintained Python web applications to support internal business pr
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=timgio26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![LeetCode Stats](https://leetcard.jacoblin.cool/TimotiusGiovandi?theme=dark&font=Nixie%20One&ext=heatmap)
 
